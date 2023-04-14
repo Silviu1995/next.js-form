@@ -9,9 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.14",
-    "@heroicons/react": "^2.0.17",
-    "@material-tailwind/react": "^1.4.2",
     "@windmill/react-ui": "^0.6.0",
     "autoprefixer": "10.4.14",
     "eslint": "8.38.0",
